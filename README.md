@@ -95,3 +95,24 @@ The current version uses predefined templates, rule-based text processing, and s
 ## License
 
 No license has been added yet.
+
+
+## Application Screenshots
+
+### 1. Main Interface
+
+### Main Interface — Screenshot 1
+![Main Interface Screenshot 1](SCREENSHOTS/UI1.png)
+
+### Main Interface — Screenshot 2
+![Main Interface Screenshot 2](SCREENSHOTS/UI2.png)
+
+### Main Interface — Screenshot 3
+![Main Interface Screenshot 3](SCREENSHOTS/UI3.png)
+
+
+### 2. Generated Cover Letter
+![Generated Cover Letter](SCREENSHOTS/Downloaded_cover_letter.png)
+
+### 3. Job Skill Analysis
+![Job Skill Analysis](SCREENSHOTS/Ex5.png)
